@@ -43,27 +43,27 @@
 		1E9EF879155826CE00960232 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		1E9EF87B155826CE00960232 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1E9EF87D155826CE00960232 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		1E9EF881155826CE00960232 /* myTabbedApp-Info.plist */ = {isa = PBXFileReference; path = "myTabbedApp-Info.plist"; sourceTree = "<group>"; };
+		1E9EF881155826CE00960232 /* myTabbedApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "myTabbedApp-Info.plist"; sourceTree = "<group>"; };
 		1E9EF883155826CE00960232 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1E9EF885155826CE00960232 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1E9EF887155826CE00960232 /* myTabbedApp-Prefix.pch */ = {isa = PBXFileReference; path = "myTabbedApp-Prefix.pch"; sourceTree = "<group>"; };
-		1E9EF888155826CE00960232 /* objixAppDelegate.h */ = {isa = PBXFileReference; path = objixAppDelegate.h; sourceTree = "<group>"; };
+		1E9EF887155826CE00960232 /* myTabbedApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "myTabbedApp-Prefix.pch"; sourceTree = "<group>"; };
+		1E9EF888155826CE00960232 /* objixAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = objixAppDelegate.h; sourceTree = "<group>"; };
 		1E9EF889155826CE00960232 /* objixAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = objixAppDelegate.m; sourceTree = "<group>"; };
 		1E9EF88C155826CE00960232 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		1E9EF88F155826CE00960232 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		1E9EF891155826CE00960232 /* objixFirstViewController.h */ = {isa = PBXFileReference; path = objixFirstViewController.h; sourceTree = "<group>"; };
+		1E9EF891155826CE00960232 /* objixFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = objixFirstViewController.h; sourceTree = "<group>"; };
 		1E9EF892155826CF00960232 /* objixFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = objixFirstViewController.m; sourceTree = "<group>"; };
 		1E9EF894155826CF00960232 /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		1E9EF896155826CF00960232 /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		1E9EF898155826CF00960232 /* objixSecondViewController.h */ = {isa = PBXFileReference; path = objixSecondViewController.h; sourceTree = "<group>"; };
+		1E9EF898155826CF00960232 /* objixSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = objixSecondViewController.h; sourceTree = "<group>"; };
 		1E9EF899155826CF00960232 /* objixSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = objixSecondViewController.m; sourceTree = "<group>"; };
 		1E9EF89B155826CF00960232 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		1E9EF89D155826CF00960232 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
 		1E9EF8A4155826CF00960232 /* myTabbedAppTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myTabbedAppTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E9EF8A5155826CF00960232 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		1E9EF8AD155826CF00960232 /* myTabbedAppTests-Info.plist */ = {isa = PBXFileReference; path = "myTabbedAppTests-Info.plist"; sourceTree = "<group>"; };
+		1E9EF8AD155826CF00960232 /* myTabbedAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "myTabbedAppTests-Info.plist"; sourceTree = "<group>"; };
 		1E9EF8AF155826CF00960232 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1E9EF8B1155826CF00960232 /* myTabbedAppTests.h */ = {isa = PBXFileReference; path = myTabbedAppTests.h; sourceTree = "<group>"; };
+		1E9EF8B1155826CF00960232 /* myTabbedAppTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = myTabbedAppTests.h; sourceTree = "<group>"; };
 		1E9EF8B2155826CF00960232 /* myTabbedAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myTabbedAppTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
